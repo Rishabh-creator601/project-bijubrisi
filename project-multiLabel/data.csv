@@ -1,0 +1,13 @@
+data	target
+Less than 2 weeks	Viral Bronchitis
+Less than two weeks.	Viral Bronchitis
+Less than a couple of weeks.	Viral Bronchitis
+Within two weeks.	Viral Bronchitis
+Under two weeks.	Viral Bronchitis
+Not even two weeks.	Viral Bronchitis
+More than 2 weeks	"[Bacterial Pneumonia,Asthma,Chronic Heart Failure,Chronic Lung Disease]"
+It's been over two weeks.	"[Bacterial Pneumonia,Asthma,Chronic Heart Failure,Chronic Lung Disease]"
+Two weeks and counting.	"[Bacterial Pneumonia,Asthma,Chronic Heart Failure,Chronic Lung Disease]"
+Over a couple of weeks.	"[Bacterial Pneumonia,Asthma,Chronic Heart Failure,Chronic Lung Disease]"
+Over 2 weeks old.	"[Bacterial Pneumonia,Asthma,Chronic Heart Failure,Chronic Lung Disease]"
+"Over two weeks, I guess."	"[Bacterial Pneumonia,Asthma,Chronic Heart Failure,Chronic Lung Disease]"
